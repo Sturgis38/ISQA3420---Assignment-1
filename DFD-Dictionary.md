@@ -2,7 +2,7 @@
 
 Developer: A person who will submit a software package for license scanning and vulnerabilities to then be sent to an open source software database.
 
-Manager: A person who submits queries to the open source software database to retrieve information regarding software packages and licensing information.
+[b]Manager:[/b] A person who submits queries to the open source software database to retrieve information regarding software packages and licensing information.
 
 Software Package: A package of open source software that is sent to be scanned by the developer for licenses and vulnerabilities.
 
