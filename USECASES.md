@@ -42,7 +42,10 @@ Manager or developer receives accurate license and vulnerability information for
 
 -Inaccurate or invalid license and/or vulnerability information for the requested project packages is returned.
 
-###Trigger: Manager of developer identifies project information to which licenses and vulnerabilities are provided.
+###Trigger: 
+
+Manager of developer identifies project information to which licenses and vulnerabilities are provided.
+
 
 ##Use Case 2
 
@@ -89,6 +92,7 @@ A software package is submitted by a developer to be scanned for licensing and N
 ###Trigger:
 
 Developer submits a software package to be scanned for licenses and vulnerabilities, this package is then added to the OSS database.
+
 
 ##Use Case 3
 
