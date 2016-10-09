@@ -17,13 +17,17 @@ A software package will be sent through the manage software package for license/
 ###Stakeholders:
 
 -Developer: Provides access to a software package in the OSS Database successfully.
+
 -Manager: Able to retrieve information about software package being added to the database if done successfully.
 
 ###Preconditions:
 
 -A developer must have a new software package for submission.
+
 -The software package mustn't have already been added to the OSS database.
+
 -The software package must have open source software licensing.
+
 -The software package must be listed in the NIST vulnerability database.
 
 ###Main Success Scenario:
@@ -33,7 +37,9 @@ A software package is submitted by a developer to be scanned for licensing and N
 ###Failed End Conditions:
 
 -The software package is alread in the OSS database.
+
 -The software package is not licensed or licenses are innacurate.
+
 -NIST Vulnerability database returns no results for the software package or vulnerabilities are innacurate.
 
 ###Trigger:
