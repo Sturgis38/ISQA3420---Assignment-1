@@ -9,6 +9,7 @@ Determine License and Vulnerability Information for Software Project
 ###Primary Actor: 
 
 -Manager
+
 -Developer
 
 ###Goal in Context:
